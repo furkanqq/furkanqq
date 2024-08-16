@@ -2,9 +2,11 @@
 
 <h3 align="center">A passionate frontend developer from Turkey/Istanbul</h3>
 <br/>
+
 - 👨‍💻 All of my projects are available at [furkanilhan.com](furkanilhan.com)
 
 - 📫 How to reach me **furkanilhanresmi@gmail.com**
+  
 <br/>
 
 ## Connect with me
