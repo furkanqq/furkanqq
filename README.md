@@ -2,22 +2,19 @@
 
 <h3 align="center">A passionate frontend developer from Turkey/Istanbul</h3>
 <br/>
-<p align="center">
 - 👨‍💻 All of my projects are available at [furkanilhan.com](furkanilhan.com)
-</p>
-<p align="center">
+
 - 📫 How to reach me **furkanilhanresmi@gmail.com**
-</p>
 <br/>
 
-<h3 align="center">Connect with me<h3/>
+## Connect with me
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="Linkedin">]((https://www.linkedin.com/in/furkan-ilhan/))
 
 <br/>
 
-<h3 align="center">Languages and Tools<h3/>
+## Languages and Tools
 
-<p align="center">
+<p align="left">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" height="40" width="40" alt="Twitter">
 <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-451x512-eftbqujz.png" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
