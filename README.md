@@ -17,7 +17,7 @@
 
 ### Languages and Tools
 
-<p align="center">
+<p align="left">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" height="40" width="40" alt="Twitter">
 <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-451x512-eftbqujz.png" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
